@@ -1,0 +1,11 @@
+{
+	"name": "Aleda",
+	"age": 20,
+	"gender": "male",
+	"hometown": {
+					"country": "china",
+					"province": "HeBei",
+					"region": "ShiJiazhuang",
+					"zipCode": ["1", "0", "0", "1", "0"]
+				}
+}
