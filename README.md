@@ -1,7 +1,6 @@
 # libsummer   
-=========================================================
+---------------------------------------------------------
 ## What is the libsummer ?   
-=========================================================
 libsummer is my personal code library, including those features:   
 
 * algorithm: some personal algorithm implementation.   
@@ -15,7 +14,6 @@ libsummer is my personal code library, including those features:
 * misc: some small projects
 
 ## How To use it ?   
-=========================================================
 
 *algorithm*:
 
@@ -36,5 +34,4 @@ libsummer is my personal code library, including those features:
     Please see the specific README.md of each project and build it.
 
 ## Any question   
-=========================================================
-Please contact [Aleda](mailto: aledalee@foxmail.com)
+Please contact [Aleda](mailto: aledalee@foxmail.com) or [aleda.cn](http://aleda.cn)
