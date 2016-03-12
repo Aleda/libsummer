@@ -6,6 +6,7 @@ libsummer is my personal code library, including those features:
 * algorithm: some personal algorithm implementation.   
     - basic-algorithm   
     - modeling-algorithm/   
+* design-pattern
 * lib: code library for a variety of languages.   
     - cpp   
     - py   
